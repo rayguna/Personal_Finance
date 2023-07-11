@@ -1,0 +1,4 @@
+initial_date: 2017-01-01
+SPY
+QQQ
+DIA 
